@@ -4,8 +4,8 @@
 
 int main()
 {
-	int a = 2;
-	int b = 4;
+	int a = 21;
+	int b = 42;
 
 	std::cout << "a = " << a << ", b = " << b << '\n';
 	::swap(a, b);
